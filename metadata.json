@@ -1,0 +1,6 @@
+{
+  "name": "POS Cafe & Kasir",
+  "description": "Aplikasi kasir dan Point of Sale (POS) modern untuk cafe dan coffee shop dengan manajemen meja, pesanan, kustomisasi produk, cetak struk, dan laporan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
